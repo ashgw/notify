@@ -1,5 +1,5 @@
 name: "ashgw-notify"
-description: "Send me a notification"
+description: "Notify me"
 author: "@ashgw"
 branding:
   icon: "bell"
